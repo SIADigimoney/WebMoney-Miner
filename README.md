@@ -2,7 +2,7 @@
 A lightweight Windows app for Monero mining with fast payouts to WebMoney (M-wallet) accounts.
 
 ## How to use
-1. [Download](https://github.com/SIADigimoney/WebMoney-Miner/releases/tag/v1.0.3/WebMoneyMinerSetup.exe) and install
+1. [Download](https://github.com/SIADigimoney/WebMoney-Miner/releases/tag/v1.0.4/WebMoneyMinerSetup.exe) and install
 2. Launch the program and enter your WMID
 3. Select the number of physical CPU cores and start mining
 
