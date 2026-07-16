@@ -1,5 +1,5 @@
-# WebMoney Miner
-A lightweight Windows app for Monero mining with fast payouts to WebMoney (M-wallet) accounts.
+# Webmoney Miner
+A lightweight Windows app for Monero mining with fast payouts to Webmoney (M-wallet) accounts.
 
 ## How to use
 1. [Download](https://github.com/SIADigimoney/WebMoney-Miner/releases/tag/v1.0.5/WebMoneyMinerSetup.exe) and install
@@ -19,13 +19,13 @@ A lightweight Windows app for Monero mining with fast payouts to WebMoney (M-wal
 
 ## End User License Agreement (EULA)
 - Purpose of the Software
-  - The software is intended exclusively for voluntary Monero mining with payments to M-wallet WebMoney, using your computer's computational resources.
+  - The software is intended exclusively for voluntary Monero mining with payments to M-wallet Webmoney, using your computer's computational resources.
 - Terms of Use
   - The software operates only when explicitly launched by you.
   - You can stop mining or remove the software at any time.
   - Responsibility for using the software and possible consequences (heating, wear, electricity consumption) lies entirely with the user.
 - Privacy
-  - The software does not collect any data except your unique identifier in the WebMoney system (WMID) which is used to calculate rewards. The software does not transmit any data to third parties.
+  - The software does not collect any data except your unique identifier in the Webmoney system (WMID) which is used to calculate rewards. The software does not transmit any data to third parties.
 - Removal
   - To remove the software, use standard Windows tools ("Programs and Features"). After removal, no hidden components remain.
 - Warranties and Liability
